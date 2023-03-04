@@ -1,0 +1,503 @@
+body{
+    background-color:#f1f3f6 ;
+}
+
+/* navbar section start */
+
+.menu
+{
+ background-color: blue;
+}
+
+
+.search
+{
+    width: 700px;
+    font-size: 23px;
+}
+
+.head
+{
+    background-color: #0000ff;
+}
+
+.logo
+{
+    text-align: end;
+}
+
+.logo a
+{
+    text-decoration: none;
+    color: #fff;
+}
+
+.small-logo
+{
+    font-size: 16px;
+    color: #fff;
+}
+
+.plus a
+{
+    color: #ffff00;
+}
+
+p a:hover
+{
+    text-decoration: underline;
+}
+
+.search-icon
+{
+    height: 50px;
+    background-color: #fff;
+    margin-top: 3px;
+    width: 50px;
+    
+}
+
+/* login button secton start */
+
+.login-button
+{
+    background-color: #fff;
+    border: none;
+    margin-top: 10px;
+    width: 170px;
+    height: 50px;
+}
+
+.login
+{
+    color: #0000ff;
+    font-size: 20px;
+}
+
+.login-modal-hw
+{
+    height: 800px;
+}
+
+.login-modal
+{
+    background-color: #0000ff;
+    
+}
+
+.modal-login-name
+{
+    margin-top: 50px;
+    color: #fff;
+    font-size: 40px;
+    margin-left: 20px;
+}
+
+.modal-login-text
+{
+    margin-left: 20px;
+    color: #fff;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.modal-login-image
+{
+    margin-top: 250px;
+}
+
+.modal-login-form
+{
+    margin-top: 80px;
+    margin-left: 20px;
+}
+
+.modal-login-form input[type=email]
+{
+ width: 90%;
+ box-sizing: border-box;
+ border: none;
+ border-bottom:2px solid #0000ff;
+}
+
+
+.modal-login-form input[type=password]
+{
+ width: 90%;
+ box-sizing: border-box;
+ border: none;
+ border-bottom:2px solid #0000ff;
+}
+
+.modal-login-form-text
+{
+    font-size: 25px;
+    color: grey;
+}
+
+.modal-login-forget
+{
+    font-size: 25px;
+    margin-left: 300px;
+}
+
+.modal-login-forget a
+{
+    text-decoration: none;
+}
+
+.modal-login-forget a:hover
+{
+    text-decoration: underline;
+}
+
+.modal-login-paregraph
+{
+    font-size: 20px;
+    margin: 30px;
+}
+
+.modal-login-paregraph span
+{
+    color: #0000ff;
+}
+
+.modal-login-paregraph span a
+{
+    text-decoration: none;
+}
+
+.modal-login-button-1
+{
+    margin: 20px;
+    width: 90%;
+    background-color:orangered;
+    border: none;
+    height: 80px;
+    font-size: 30px;
+    color: #fff;
+}
+
+.modal-login-button-2
+{
+    margin: 20px;
+    width: 90%;
+    border: 1px solid #fff;
+    box-shadow: 15px 10px 10px  #fff;
+    height: 80px;
+    font-size: 25px;
+    color: #0000ff;
+}
+
+.modal-login-new-account 
+{
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+    margin: 30px;
+    margin-left: 60px;
+    
+}
+
+/* login button section end */
+
+/* last-col-item section start */
+
+.seller 
+{
+    text-decoration: none;
+    color: #fff ;
+    font-size: 22px;
+    margin-left: 30px;
+    
+}
+
+.down-style
+{
+    color: #fff;
+    font-size: 22px;
+   text-decoration: none;
+}
+
+
+
+.droupdown-list li a
+{
+ font-size: 25px;
+ margin-left: 20px;
+ display: inline;
+}
+
+.droupdown-list li i
+{
+    
+    color: #0000ff;
+    display: inline;
+}
+
+
+.cart i
+{
+ color: #fff;
+}
+
+.cart a
+{
+    text-decoration: none;
+    color: #fff;
+    font-size: 35px;
+}
+
+.last-col-item-center
+{
+    margin-top: 20px;
+}
+
+/* last-col-item section end */
+
+/* navbwr section end */
+
+
+/* All product deatil section start */
+
+.deatil a
+{
+    text-decoration: none;
+    color: #281717;
+    font-size: 22px;
+    margin-left: px;
+}
+
+.pro-deatil-hover b:hover
+{
+    color: #0000ff;
+}
+
+
+/* All product deatil section start */
+
+.swiper {
+    width: 100%;
+    height: 100%;
+  }
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .first-swipe-image
+  {
+    height: 200px;
+    margin-top: 108px;
+  }
+
+  .first-swipe-text
+  {
+    text-align: center;
+    margin-top: 50px;
+  }
+
+ .first-swipe-button
+ {
+   margin-left: 80px;
+   text-align: center;
+   padding: 10px;
+   width: 150px;
+ }
+
+ .image-hover .swiper-slide a img:hover
+ {
+    transform: scale(1.2);
+ }
+
+ .top-brand h5 
+ {
+    color: gray;
+    font-size: 25px;
+    margin: 20px;
+ }
+
+ .top-brand p
+ {
+    color: gray;
+    font-size: 20px;
+    margin-left: 20px;
+ }
+
+ .top-brand p a
+ {
+    text-decoration: none;
+    color:lightslategray;
+ }
+
+ 
+ .top-brand h5 a
+ {
+    text-decoration: none;
+    color:black;
+    font-size: 25px;
+ }
+
+ .Shopping-destination h5
+ {
+    color: gray;
+    font-size: 25px;
+    margin-left: 20px;
+ }
+
+
+ .Shopping-destination p
+ {
+    color:lightslategray;
+    font-size: 20px;
+    margin-left: 20px;
+ }
+
+ /* Footer section start */
+
+
+ .footer-list h3
+ {
+  color:#c4c2c2;
+  font-size: 20px;
+  margin: 20px;
+  margin-left: 20px;
+ }
+
+.footer-list ul li a
+{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.footer-list p
+{
+    color: white;
+    font-size: 20px;
+}
+
+.footer-list ul li a:hover
+{
+    text-decoration: underline;
+}
+
+.buttom-footer a
+{
+ text-decoration: none;
+ color: white;
+ font-size: 20px;
+}
+
+.buttom-footer a i
+{
+    font-size: 25px;
+    color: yellow;
+    margin: 10px;
+}
+
+.buttom-footer p
+{
+    color: white;
+    font-size: 20px;
+    margin: 10px;
+}
+
+.buttom-footer p span
+{
+    color: yellow;
+}
+
+/* footer section end */
+
+/* Crazy Deal 3 - Products Section start */
+
+.crazy
+{
+    height: 300px;
+    width: 350px;
+}
+
+
+
+.item-name
+{
+    margin-top: 40px;
+   margin-left: 70px;
+    font-size: 22px;  
+}
+
+.item-off
+{
+ margin-left: 120px;
+ color: green;
+ font-size: 22px;
+}
+
+.item-catogory
+{
+    font-size: 22px; 
+    color: silver; 
+    margin-left: 75px;
+}
+
+.crazy:hover
+{
+    transform: scale(1.1);
+}
+
+
+
+/* Crazy Deal 3 - product section end */
+
+
+/* goto - top section start */
+
+   .goToTop {
+             position: fixed;
+             width: 15rem;
+             height: 5rem;
+             background: white;
+             bottom: 4rem;
+             border-radius: 10px;
+             border: 2px solid silver;
+             top: 6rem;
+             left: 55rem;
+             text-decoration: none;
+             text-align: center;
+             line-height: 5rem;
+             color: blue;
+             font-size: 1.5rem;
+             z-index: 10;
+             }
+
+             .goToTop i
+             {
+                margin:10px;
+             }
+
+             /* goto - top section end */

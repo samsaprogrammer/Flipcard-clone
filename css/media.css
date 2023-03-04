@@ -1,0 +1,40 @@
+@media screen and (max-width:767px) 
+{
+
+    /* Navbar section start */
+    .search
+    {
+        width: 300px;
+        font-size: 10px;
+    } 
+
+    .logo
+    {
+     font-size: 13px;
+
+    }
+    .small-logo
+     {
+      font-size: 9px;
+      
+     }
+     .plus 
+    {
+     font-size: 8px;
+    }
+
+    #login-res
+    {
+        display: none;
+    }
+
+    #navsell-res
+    {
+        display: none;
+    }
+
+    #all-product-detial-res
+    {
+        display: none;
+    }
+}
